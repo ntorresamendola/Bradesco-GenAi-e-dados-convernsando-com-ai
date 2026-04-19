@@ -36,3 +36,5 @@ Ir, via terminal, até a pasta onde repositório foi baixado e executar:
 ```
 python3 main.py
 ```
+
+
