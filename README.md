@@ -37,17 +37,4 @@ Ir, via terminal, até a pasta onde repositório foi baixado e executar:
 python3 main.py
 ```
 
-#Estrutura de arquivos
-
-├── images/
-│   └── interface.png
-├── .env.example
-├── .gitignore
-├── gravador_audio.py
-├── main.py
-├── README.md
-├── requeriments.txt
-├── resposta_chatgpt.py
-├── resposta_para_audio.py
-└── transcreve_audio.py
 
